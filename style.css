@@ -1,0 +1,15 @@
+body{
+    font-family: 'EB Garamond', serif;
+}
+.name-highlight{
+    color:orange;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin:2%;
+    padding:2%;
+}
+.half-width img{
+    width:100%;
+}
